@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stopson30
-- 👀 I’m interested in ...
+- 👀 I’m interested in crypto, AI, Python, Linux
 - 🌱 I’m currently learning Node.js & Solidity smart contracts of Ethereum network
 - 💞️ I’m looking to collaborate on a crypto related project
 - 📫 How to reach me: jstopa433@gmail.com, 956-238-8203
